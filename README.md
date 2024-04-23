@@ -8,7 +8,6 @@ Welcome to the Todo List App! This is a simple Flutter application that helps yo
 - Add new tasks using the floating action button (FAB).
 - Mark tasks as done by tapping on them.
 - Delete tasks by tapping on the delete icon at the end of each task card.
-- View task details, including the task text and date.
 
 Futher work that is
 
